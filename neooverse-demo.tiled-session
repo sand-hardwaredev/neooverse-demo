@@ -1,0 +1,162 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "neooverse-demo-getting-started-1.json",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "fileStates": {
+        "": {
+            "scaleInDock": 1
+        },
+        "#Collides": {
+            "scaleInDock": 1
+        },
+        "#neooverse-demo-getting-started-A": {
+            "scaleInDock": 0.75
+        },
+        "neooverse-demo-exterior.json": {
+            "scale": 0.1448489010989011,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 2730.431484115694,
+                "y": 918.1981981981985
+            }
+        },
+        "neooverse-demo-exterior.json#Collides": {
+            "scaleInDock": 1
+        },
+        "neooverse-demo-exterior.json#neooverse-demo-exterior": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "neooverse-demo-getting-started-1.json": {
+            "scale": 0.5,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 1207,
+                "y": 754
+            }
+        },
+        "neooverse-demo-getting-started-1.json#Collides": {
+            "scaleInDock": 1
+        },
+        "neooverse-demo-getting-started-1.json#neooverse-demo-getting-started-A": {
+            "scaleInDock": 1
+        },
+        "neooverse-demo-getting-started-2.json": {
+            "scale": 0.3061323924731183,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1886.4387245485977,
+                "y": 787.2410954393283
+            }
+        },
+        "neooverse-demo-getting-started-2.json#Collides": {
+            "scaleInDock": 1
+        },
+        "neooverse-demo-getting-started-2.json#neooverse-demo-getting-started-A": {
+            "scaleInDock": 1
+        },
+        "neooverse-demo-getting-started-3.json": {
+            "scale": 0.25,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 1042,
+                "y": 716
+            }
+        },
+        "neooverse-demo-getting-started-3.json#Collides": {
+            "scaleInDock": 1
+        },
+        "neooverse-demo-getting-started-3.json#neooverse-demo-getting-started-A": {
+            "scaleInDock": 1
+        },
+        "neooverse-demo-getting-started-3.json#neooverse-demo-getting-started-B": {
+            "scaleInDock": 1
+        },
+        "neooverse-demo-getting-started-4.json": {
+            "scale": 0.3061323924731183,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1425.853685308161,
+                "y": 787.2410954393283
+            }
+        },
+        "neooverse-demo-getting-started-4.json#Collides": {
+            "scaleInDock": 1
+        },
+        "neooverse-demo-getting-started-4.json#neooverse-demo-getting-started-A": {
+            "scaleInDock": 1
+        },
+        "neooverse-demo-getting-started-A.json": {
+            "scale": 0.33,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 1840.909090909091,
+                "y": 827.2727272727273
+            }
+        },
+        "neooverse-demo-getting-started-A.json#Collides": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "neooverse-demo-getting-started-A.json#neooverse-demo-getting-started-A": {
+            "scaleInDock": 0.75
+        },
+        "neooverse-demo-lobby.json": {
+            "scale": 0.75,
+            "selectedLayer": 6,
+            "viewCenter": {
+                "x": 580.6666666666666,
+                "y": 633.3333333333334
+            }
+        },
+        "neooverse-demo-lobby.json#Collides": {
+            "scaleInDock": 1
+        },
+        "neooverse-demo-lobby.json#neooverse-demo-lobby": {
+            "scaleInDock": 1
+        },
+        "neooverse-demo-representative.json": {
+            "scale": 0.3948756720430107,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 700.2203973960771,
+                "y": 1237.098242777518
+            }
+        },
+        "neooverse-demo-representative.json#Collides": {
+            "scaleInDock": 0.5
+        },
+        "neooverse-demo-representative.json#neooverse-demo-representative": {
+            "scaleInDock": 1
+        }
+    },
+    "map.height": 51,
+    "map.lastUsedFormat": "json",
+    "map.width": 91,
+    "openFiles": [
+        "neooverse-demo-exterior.json",
+        "neooverse-demo-lobby.json",
+        "neooverse-demo-getting-started-2.json",
+        "neooverse-demo-getting-started-1.json",
+        "neooverse-demo-getting-started-3.json",
+        "neooverse-demo-getting-started-4.json"
+    ],
+    "project": "neooverse-demo.tiled-project",
+    "property.type": "bool",
+    "recentFiles": [
+        "neooverse-demo-exterior.json",
+        "neooverse-demo-lobby.json",
+        "neooverse-demo-getting-started-2.json",
+        "neooverse-demo-getting-started-4.json",
+        "neooverse-demo-getting-started-3.json",
+        "neooverse-demo-getting-started-1.json",
+        "neooverse-demo-getting-started-A.json",
+        "neooverse-demo-representative.json"
+    ],
+    "tileset.embedInMap": true
+}
